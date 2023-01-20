@@ -640,3 +640,26 @@ footer .copyright {
     background-color: #764e26;
 }
 
+/* Ficha propiedad */
+
+.propiedad {
+    margin-top: 80px;
+    background-image: url(../img/property5.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.propiedad div:first-child {
+    background-color: rgba(255, 255, 255, 0.90);
+}
+
+.propiedad div:first-child h1 {
+    font-size: 1.4rem;
+    color: #a97c50;
+}
+
+.propiedad div:first-child p img {
+    width: 28px;
+    height: 28px;
+}
